@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "taller-integracion-310700",
+  "private_key_id": "e8a8e3f6c66c4a6d08c2671f34102eb8f5aaca31",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCOD547hwODOVZ1\noNZj/ASH1hn/VOnVrPUdAX/GQZqkW7aSPwjQUrw+6vbM+5hPZ4HMTMD3uTbg+gB+\nGAyVyuqBW9d3sLIuTdCDG1LXxPO7wcUy872xDUcwTXybqDCJN6WtIhpPyxcteUS9\ncVr+ItUch4FWGmvl8FFgGje8upU2b5pA/G5x0kVGBfud6rddTIqG9AzaAArbTP9F\nNs6rWaRoZ4ZKBrZ5Zh9py4WFe9gaFh7/DF6tjwtrBG8D8zdjHyjLa8sjair4uiB+\n4S8AnyTjCHPFHB7LTzPoaBf96ZEWayUOq8k8RwtJPlSvw5DRr4ZwCwL9cwfunQ8u\nCBaCj16zAgMBAAECgf8sUGnCcRI5uF/248dqjaCTCBHvb42B0N/JvtKKl+xcND+/\nXw7zEbdd6RI4TNWj71yygqyKmfLyOwo1b91Yk4YBHVv0sQUtI2IMXzB4Z2VXUPYO\nN/o9ZTAY4TeP6QvNL7M1l9t4v3PElw+RLV1ZoBZIGSGIcUfJcnbLXxkofQt8XNzM\n8On9Hfk2hmWpLsVYSEBes7ZOIa4DI44CkxK8EWrOMrovnIKgrUcuAg5HM8DXEfAw\n02HXeW815TmP8UsLcVMXU+ED4aRFK5BgOH9/4mi44pPajGkC8Ory69Qz5yJNuQZa\nGIWMsaW1EyOxNdbsvkrVUzT3coFdTNEp+QgV2AkCgYEAx4LP9VzLlKJ7MRqZJA4g\nXJ7gJW9uM8jRvycMMz0/Fjk+cwnnd/7IXuj50CZEcOmfja8zTNJo6GN1x5ufV7DL\nvD/zbu20ZVo9tzv1Cnp7RS32UXZTsofNBsUHNEUc6jYjLsvoP1+Amdv/fKvzS5+S\nkohRzlvfvY7tut8MRlQY5+8CgYEAtkimSiMfinxkMspGkv3xewsIMR/3GQPzQBks\nLBIPE9s2euRcNe1sIvduCLgmW5rRfxLHqZdfaaZUA11CBNUP1f8TPyzcbL8leOna\nOnyruSA05NzN/QQZh7WGslKeO/ejas0jqE8IN1pxtfT0HktDpDQOQeShWSyPJfDc\nC4e00X0CgYBC7L6Vr+sakOaCMknsrlBswV6vMBHnjRXO6WpORd1DtzAbptbeibjt\nHXmvOSb8OWIsRPkQbASE79gyfSGWaNfu7gTa0SISXZMWRCaOvUdcjW5zJR4uZR+B\nhdZE0mpApqhmqj/eAktBUWsChyu10nF4dgH7FxaWn7tfVDLp5Iv2QQKBgA+/iw5Q\npoLyaD2zGBHO+rPkqhqEZna0zqk1A4nzLXZLtBM983F9R6BlvA3oyveTEpJl7vYJ\n6+ZWxl9cCT4dojacyO7mU0zZ3sTpfz8aUkO2MpurL+iyF/qPhkmVtbH8nRO3EWOT\nIGSX3ccYmJadbgSbsreipwXrQZrHils8qDSJAoGAMiwmxnifVA0XpzMVziQI0TY3\nvAc0wyu2ZH1GfsimpwSprEZruT+Bat5yWzAnf5M3WrDn1qoZXdzzT09kq741f3om\n6pIqz/4uZWn66jEFGRyjyAfjHjMob13mqECA2ZlT1I/ERCChpDy/1qbc/KLSgwVj\nXUV4Iy2yRVQme3b6MyE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "acceso-bucket-alumnos-tarea-3@taller-integracion-310700.iam.gserviceaccount.com",
+  "client_id": "100374981212003440652",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/acceso-bucket-alumnos-tarea-3%40taller-integracion-310700.iam.gserviceaccount.com"
+}

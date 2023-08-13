@@ -1,1 +1,5 @@
 # TI_T3
+
+A grandes rasgos, deben generar un programa relativamente simple que consuma una base de datos instalada en la nube y que los almacene en una base de datos creada por ustedes, para luego hacer uso de dichos datos y poder tomar decisiones.
+Más específicamente, tendrán que hacer un programa capaz de recopilar datos almacenados en un almacenamiento privado de Google Cloud Platform (GCP). Dichos datos están guardados en un bucket al cual deberán acceder mediante la información acá provista y el método que estimen conveniente. Luego, guardar la información recopilada en una base de datos creada por ustedes para hacer uso de la misma.
+Hecho lo anterior, y mediante la utilización de herramientas para manipulación y visualización de datos, deben llevar a cabo un análisis de estos mismos, para finalmente acompañar con una recomendación que esté alineada y sea coherente con el análisis anteriormente realizado.
